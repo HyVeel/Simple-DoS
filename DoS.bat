@@ -1,7 +1,7 @@
 @echo off
 
 MODE 25,1
-title "DoS"
+title DoS
 color 0A
 echo | set /p="Target: %~n0"
 
